@@ -1,0 +1,9 @@
+*.csv
+*.parquet
+!outputs/*.csv
+*.json
+!wc2026_played.json
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
